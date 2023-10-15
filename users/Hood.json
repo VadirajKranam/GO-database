@@ -1,0 +1,12 @@
+{
+	"Name": "Hood",
+	"Age": 22,
+	"Contact": "98766393272",
+	"Company": "Akamai tech",
+	"Address": {
+		"City": "Banglore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 582199
+	}
+}

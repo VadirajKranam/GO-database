@@ -1,0 +1,12 @@
+{
+	"Name": "Gordan",
+	"Age": 23,
+	"Contact": "982234272",
+	"Company": "Wayne Enterprise",
+	"Address": {
+		"City": "Gotham",
+		"State": "Gotham",
+		"Country": "America",
+		"Pincode": 123339
+	}
+}

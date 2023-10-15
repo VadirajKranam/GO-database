@@ -1,0 +1,12 @@
+{
+	"Name": "Robin",
+	"Age": 28,
+	"Contact": "9826393232",
+	"Company": "Info tech",
+	"Address": {
+		"City": "Banglore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 582199
+	}
+}
